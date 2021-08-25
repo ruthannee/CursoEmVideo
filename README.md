@@ -1,1 +1,1 @@
-# CursoEmVideo
+# Curso em Video - Python
